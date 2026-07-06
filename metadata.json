@@ -1,0 +1,6 @@
+{
+  "name": "Women's Own Fitness Club",
+  "description": "An attractive and interactive gym website for Women's Own Fitness Club in Karachi, Pakistan. Built with React, Motion, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
