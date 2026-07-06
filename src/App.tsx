@@ -142,7 +142,7 @@ export default function App() {
               >
                 <div className="relative w-12 h-12 overflow-hidden rounded-full border border-stone-800">
                   <img
-                    src="/src/assets/images/womens_own_logo_1783285427865.jpg"
+                    src="/src/assets/images/logo.jpg"
                     alt="Women's Own Club Logo"
                     className="w-full h-full object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all"
                     referrerPolicy="no-referrer"

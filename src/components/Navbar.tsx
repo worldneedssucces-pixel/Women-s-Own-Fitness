@@ -35,7 +35,7 @@ export default function Navbar({ currentView, setView }: NavbarProps) {
           >
             <div className="relative w-12 h-12 overflow-hidden rounded-full border-2 border-brand-primary/10 group-hover:border-brand-primary/40 transition-colors">
               <img
-                src="/src/assets/images/womens_own_logo_1783285427865.jpg"
+                src="/src/assets/images/logo.jpg"
                 alt="Women's Own Fitness Club Logo"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

@@ -94,7 +94,7 @@ export default function About() {
             <div className="bg-gradient-to-r from-stone-900 to-stone-950 text-white p-6 rounded-2xl shadow-xl flex flex-col sm:flex-row gap-6 items-center border border-stone-800">
               <div className="relative w-20 h-20 rounded-full overflow-hidden border-2 border-brand-primary flex-shrink-0 bg-stone-800">
                 <img
-                  src="/src/assets/images/womens_own_logo_1783285427865.jpg"
+                  src="/src/assets/images/logo.jpg"
                   alt="Trainer Romana Imran logo concept"
                   className="w-full h-full object-cover scale-110"
                   referrerPolicy="no-referrer"

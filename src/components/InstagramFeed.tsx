@@ -236,7 +236,7 @@ export default function InstagramFeed() {
               <div className="w-10 h-10 rounded-full p-0.5 bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-600">
                 <div className="w-full h-full rounded-full overflow-hidden border border-white bg-stone-100">
                   <img
-                    src="/src/assets/images/womens_own_logo_1783285427865.jpg"
+                    src="/src/assets/images/logo.jpg"
                     alt="Women's Own Fitness Club Profile"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
