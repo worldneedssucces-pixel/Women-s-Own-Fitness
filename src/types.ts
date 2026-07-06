@@ -25,6 +25,7 @@ export interface InstagramPost {
   commentsCount: number;
   date: string;
   link: string;
+  comments?: string[];
 }
 
 export interface GymClass {
